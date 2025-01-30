@@ -10,7 +10,7 @@
 **Expected Outcome**
 
 - A fully functional “Hello World” script that can take a user input and print out a greeting (e.g., "Hello, [username]!").
-- Attendees become comfortable with:
+- Familiarise yourself with:
   - How **Cursor Autocomplete** suggests code completions.
   - How to use the **basic prompt** in **Cursor Chat** to make small iterative changes.
 
