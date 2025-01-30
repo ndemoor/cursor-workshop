@@ -13,7 +13,7 @@
 **Expected Outcome**
 
 - An updated code snippet that conforms to the style rules specified in your `.cursorrules` file.
-- This should make you familiar with:
+- Familiarise yourself with:
   - Create and configure a `.cursorrules` file.
   - Use **Cursor Autocomplete** and **Cursor Chat** to automatically enforce or fix style issues.
 
